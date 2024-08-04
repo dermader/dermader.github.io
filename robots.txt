@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dermader.github.io/sitemap.html.gz
+Sitemap: https://dermader.github.io/app/sitemap.html.gz
+Sitemap: https://dermader.github.io/assets/sitemap.html.gz
+Sitemap: https://dermader.github.io/css/sitemap.html.gz
+Sitemap: https://dermader.github.io/includes/sitemap.html.gz
+Sitemap: https://dermader.github.io/item/sitemap.html.gz
+Sitemap: https://dermader.github.io/src/sitemap.html.gz
